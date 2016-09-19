@@ -1,7 +1,7 @@
 Soccer League Quickstart
 =================
 
-Soccer League requires Python 2.7 To check your python version, run:
+Soccer League requires Python 2.7 - To check your python version, run:
 
 .. code:: console
 
